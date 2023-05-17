@@ -19,7 +19,6 @@ public class byName {
         //Selector by name
         driver.findElement(By.name("first_name")).sendKeys("Miles");
         
-        
     }
 
 }
